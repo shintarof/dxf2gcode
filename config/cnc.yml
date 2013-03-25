@@ -1,0 +1,6 @@
+feed: 400
+spindle: 3000
+tool: 1
+z_max: 3
+z_min: -5
+ 
